@@ -1,0 +1,6 @@
+{
+  "name": "Financial Analysis Dashboard",
+  "description": "An advanced financial analysis platform for Short-term, Medium-term, and Long-term investors featuring automated technical indicators, stock screening, and AI-powered market insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
