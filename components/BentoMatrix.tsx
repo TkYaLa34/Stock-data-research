@@ -1,6 +1,7 @@
 import React from 'react';
 import { PivotPoints, FibonacciLevels } from '../utils/technicalAnalysis';
 
+
 interface BentoMatrixProps {
   symbol: string;
   currentPrice: number;
